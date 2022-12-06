@@ -6,4 +6,4 @@
 * input system for mobile devices
 * using assets
 
-![image](https://user-images.githubusercontent.com/69590858/206026041-9d3084b0-28b8-478f-8114-0f43b2f6beb5.png)
+![2022-12-07_00-22-54](https://user-images.githubusercontent.com/69590858/206026121-d58bca32-7924-4d48-9e1f-0a289c5eaa34.png)
